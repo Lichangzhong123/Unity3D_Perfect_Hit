@@ -1,37 +1,22 @@
-# Unity 3D Patrol patrol
-
-#### 介绍
-Unity 3D 小游戏 Perfect_Hit
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+# 项目名:Perfect_Hit
+## 游戏截图 
+- 开始界面
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0222/122151_e1e6e45b_4825315.png "start.PNG")
+- 游戏中的画面
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0222/122805_63daf9be_4825315.png "gaming.PNG")
+- 游戏结束界面
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0222/123205_1c8f1685_4825315.png "end.PNG")
+## 游戏功能实现
+- 文件写盘，读盘
+- player身体的添加，蛇形移动方式
+- 路面道具的随机生成
+- 过关口的随机生成
+- 移动的方式随机
+- 关卡的无限复用
+- 摄像机的移动跟随
+- 分数的叠加
+- 游戏进度的记录
+- 游戏失败判断
+- 游戏过关判断
+- 游戏音效（未完成）
+- 游戏粒子系统（未完成）
