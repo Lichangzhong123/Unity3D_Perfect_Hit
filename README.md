@@ -1,6 +1,6 @@
 # 项目名:Perfect_Hit
 ## 游戏截图 
-- 开始界面
+- 开始游戏界面
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0222/122151_e1e6e45b_4825315.png "start.PNG")
 - 游戏中的画面
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/0222/122805_63daf9be_4825315.png "gaming.PNG")
